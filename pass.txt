@@ -1,1 +1,3 @@
-17desember
+username : <input type="text" name "user" value="">
+password  : <input type="password" name "passrot" value="">
+<input type="button" name="tombol" value="okey">
